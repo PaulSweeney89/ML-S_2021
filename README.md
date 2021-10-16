@@ -5,6 +5,10 @@
 *Develop two Jupyter Notebooks - **Scikit-Learn Jupyter Notebook** & **Scipy Stats Jupyter Notebook** which will provide a concise overview with demostations of the scikit-learn & scipy.stats Python libraries.*
 
 - - - -
+| Scikit Learn | Scipy Stats |
+:-----------------:|:------------------:
+| <a href="https://scikit-learn.org/" rel="nofollow"><img alt="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" height="150" style="max-width: 100%;"></a> | <a href="https://docs.scipy.org/doc/scipy/reference/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="150" alt="SciPy logo" style="max-width: 100%;"></a> |
+
 ## Introduction
 
 This project forms part of the Machine Learning & Statistics module for 2021, please refer to the [project.pdf](https://github.com/PaulSweeney89/ML-S_2021/blob/main/assessment.pdf) document included in this repository for the full project outline & instructions.
