@@ -21,7 +21,11 @@ This project forms part of the Machine Learning & Statistics module for 2021, pl
 
 The main objectives of the project include:
 
-1. 
+1. Create a GitHub repository containing two Jupyter notebooks - Scikit-Learn & SciPy-Stats, a clear & informative README.md & a requirements.txt file.
+
+2. Scikit-Learn Jupyter Notebook which gives an overview of the scikit-learn Python library & demonstrates the used of three scikit-learn algorithms with appropriate plots & visualisations.
+
+3. Scipy Stats Jupyter Notebook which gives an overview of the scipy.stats Python library & an example of an hypothesis test using ANOVA with appropriate plots & visualisations.
 
 ## Repository Files & Folders
 
