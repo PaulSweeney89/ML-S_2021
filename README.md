@@ -5,9 +5,15 @@
 *Develop two Jupyter Notebooks - **Scikit-Learn Jupyter Notebook** & **Scipy Stats Jupyter Notebook** which will provide a concise overview with demostations of the scikit-learn & scipy.stats Python libraries.*
 
 - - - -
-| Scikit Learn | Scipy Stats |
-:-----------------:|:------------------:
-| <a href="https://scikit-learn.org/" rel="nofollow"><img alt="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" height="150" style="max-width: 100%;"></a> | <a href="https://docs.scipy.org/doc/scipy/reference/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="150" alt="SciPy logo" style="max-width: 100%;"></a> |
+
+<p align="center">
+    <a href="https://scikit-learn.org/stable/">
+        <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" height="150" style="max-width: 100%; padding-right: 50px;"/>
+    </a>
+    <a href="https://scipy.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="150" style="max-width: 100%; padding-left: 50px;"/> 
+    </a>
+</p>
 
 ## Introduction
 
@@ -20,6 +26,8 @@ The main objectives of the project include:
 ## Repository Files & Folders
 
 List of files & folders contained within the Github Repository:
+- datasets folder - Contains csv dataset files used within the repository.
+- images folder - Contains image files used within notebooks.
 - README.md - This README markdown file.
 - .gitignore file -  specifies files to be untracked by git.
 - assessment.pdf - full description of the Machine Learning & Statistics assessment & objectives.
@@ -27,15 +35,18 @@ List of files & folders contained within the Github Repository:
 
 ## Jupyter Notebook
 
-Note: all descriptive & programming objectives of the assessment have been fully complete within the interactive Jupyter Notebook environment, please refer to the [UPDATE LINK](https://github.com/PaulSweeney89/FDA-Project2020/blob/main/windpower.ipynb) within this repository.
+Note: all descriptive & programming objectives of the assessment have been fully complete within the interactive Jupyter Notebook environment.
 
-The notebooks are assiocated with the Ipython kernal and therfore all code has been written & runs in Python.
+The notebooks are assiocated with the Ipython kernal and therefore all code has been written & runs in Python.
 
 ##  Jupyter Notebook Environment
 
-The Jupyter Notebooks can be viewed as a static web page by opening the [UPDATE LINK](https://github.com/PaulSweeney89/FDA-Project2020/blob/main/windpower.ipynb) file directly within this github repository or by clicking the nbviewer links below. 
+The Jupyter Notebooks can be viewed as a static web page by opening [Scikit-Learn Notebook](https://github.com/PaulSweeney89/ML-S_2021/blob/main/scikit-learn.ipynb) or [SciPy-Stats Notebook](https://github.com/PaulSweeney89/ML-S_2021/blob/main/scipy-stats.ipynb) file directly within this github repository or by clicking the nbviewer links below. 
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/...)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/PaulSweeney89/ML-S_2021/blob/main/scikit-learn.ipynb) **Scikit-Learn Notebook**
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/PaulSweeney89/ML-S_2021/blob/main/scipy-stats.ipynb) **SciPy-Stats Notebook**
+
 
 The fully interactive Jupyter notebook can be accessed via [Anaconda](https://www.anaconda.com), the Python and R programming distribution which includes many data-science specific packages.
 
@@ -58,4 +69,6 @@ List of Python Packages & Libraries used within the project:
 - Seaborn, [seaborn.pydata.org](https://seaborn.pydata.org/)
 - Matplotlib, [matplotlib.org](https://matplotlib.org/)
 - NumPy, [numpy.org](https://numpy.org/)
-- scikit-learn, [scikit-learn.org](https://scikit-learn.org/stable/)
+- Scikit-learn, [scikit-learn.org](https://scikit-learn.org/stable/)
+- SciPy, [scipy.org](https://scipy.org/)
+- Statsmodels, [statsmodels.org](https://www.statsmodels.org/stable/index.html)
